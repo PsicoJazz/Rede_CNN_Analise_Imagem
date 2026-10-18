@@ -46,6 +46,10 @@ O que foi feito:
 
 ## Rodando a interface
 
+Baixe o arquivo Redes_Neurais_CNN_Reconhecimento_de_imagens.keras abaixo.
+Coloque-o na mesma pasta do app.py.
+Rode streamlit run app.py.
+
 ### 1. Clonar o projeto
 
 ```bash
