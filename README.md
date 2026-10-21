@@ -123,4 +123,4 @@ O arquivo `.keras` tem cerca de **268 MB**, e o GitHub não aceita arquivos acim
 
 ## Autor
 
-Feito por **SEU NOME**. Fique à vontade para abrir uma issue ou mandar sugestões.
+Feito por **Daniel Martins Ferreira**. Fique à vontade para abrir uma issue ou mandar sugestões.
